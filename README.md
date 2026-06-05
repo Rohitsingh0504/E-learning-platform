@@ -1,10 +1,10 @@
-# 🎓 LearnHub — Full-Stack E-Learning Platform
+#  LearnHub — Full-Stack E-Learning Platform
 
 A production-ready e-learning platform built with the MERN stack, featuring JWT authentication, Razorpay payments, role-based dashboards, video lessons, progress tracking, and MCQ quizzes.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Layer        | Technology                          |
 |-------------|--------------------------------------|
@@ -17,7 +17,7 @@ A production-ready e-learning platform built with the MERN stack, featuring JWT 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 elearning/
@@ -141,7 +141,7 @@ App runs on: `http://localhost:3000`
 
 ---
 
-## 🔑 Demo Credentials
+##  Demo Credentials
 
 | Role    | Email                    | Password   |
 |---------|--------------------------|------------|
@@ -150,7 +150,7 @@ App runs on: `http://localhost:3000`
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 ### Auth
 | Method | Endpoint            | Access  | Description        |
@@ -227,7 +227,7 @@ App runs on: `http://localhost:3000`
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 
 - **Passwords** hashed with bcryptjs (salt rounds: 10)
 - **JWT** tokens with expiry (7 days)
@@ -238,7 +238,7 @@ App runs on: `http://localhost:3000`
 
 ---
 
-## 💡 Interview Talking Points
+##  Interview Talking Points
 
 ### Architecture Decisions
 - **MVC pattern** on backend: Models → Controllers → Routes
